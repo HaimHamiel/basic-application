@@ -1,6 +1,7 @@
 
+
 ## 🚀 About Me
-My name is Haim, I’m a Full stack developer experienced with React, NodeJS, and MongoDB.
+My name is Haim, I’m a Full-stack developer experienced with React, NodeJS, and MongoDB.
 I have built web platforms that help users create smart consumption habits and reduce monthly costs.
 
 
@@ -49,18 +50,12 @@ Set Environment Variables
 
 Rename the .envexample to .env and add your MongoDB database URI and your JWT secret
 
-Install backend dependencies
+Install dependencies
 ```bash
 npm install
 ```
 
-Install client dependencies
-```bash
-cd frontend
-npm install
-```
-
-Run app in development (frontend & backend)
+Run app in development (You need to run it from the [server](https://github.com/HaimHamiel/basic-application-server/tree/main) side)
 
 ```bash
 npm run dev
